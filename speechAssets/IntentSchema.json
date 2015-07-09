@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "WeakIntent",
+      "slots": [
+        {
+          "name" : "Defending",
+          "type": "LITERAL"
+        }
+      ]
+    }
+  ]
+}

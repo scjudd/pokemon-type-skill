@@ -1,0 +1,18 @@
+WeakIntent what types are strong against {steel | Defending}
+WeakIntent whats strong against {normal | Defending}
+WeakIntent whats strong against {fighting | Defending} types
+WeakIntent whats strong against the {poison | Defending} type
+WeakIntent what is {ground | Defending} weak against
+WeakIntent what is {rock | Defending} weak to
+WeakIntent what are {bug's | Defending} weaknesses
+WeakIntent what is the {ghost | Defending} type weak against
+WeakIntent what is the {steel | Defending} type weak to
+WeakIntent what is the {fire | Defending} type's weaknesses
+WeakIntent {water | Defending} weaknesses
+WeakIntent {grass's | Defending} weaknesses
+WeakIntent {electric | Defending} weakness
+WeakIntent {psychic's | Defending} weakness
+WeakIntent {ice | Defending} type weaknesses
+WeakIntent {dragon | Defending} type's weaknesses
+WeakIntent {dark | Defending} type weakness
+WeakIntent {fairy | Defending} type weakness
